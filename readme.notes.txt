@@ -22,3 +22,14 @@
 
 
 	Collapsed columns will allow you to click on a word and a list of material will flow down. By using the collapse in class for the div for the col1Content div the information will be shown by default. In collapse the information is not shown until clicked 
+
+	The well hidden divs will dissapear if the width of the div goes below a certain value. 
+
+	<div class="col-md-6 col-md-offset-6">
+	will leave an offset or leave black 6 columns on the left value of the screen 
+
+	table stribe allows you to put in the row lines. table hover will allow you to change color.
+
+	If you are using bootstrap and you use the data target field you can tell bootstrap that you want to use their javascript libraries without actually having to write any of the code. Just by providing a data target you are allowing bootstrap to take over the control of your html page and use its jquery. 
+The Carousel:
+	If you want ot create a carousel you can use the id thecarousel 
